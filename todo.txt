@@ -1,0 +1,6 @@
+[] mail sending functionality 
+[] storing / retrieving vide functionality
+
+[] sign up 
+[] sign in 
+[] util functions 
