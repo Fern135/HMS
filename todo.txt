@@ -1,6 +1,7 @@
 [] mail sending functionality 
-[] storing / retrieving vide functionality
+[] storing / retrieving video functionality
 
 [] sign up 
 [] sign in 
 [] util functions 
+[] multi platform streaming
